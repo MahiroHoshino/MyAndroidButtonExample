@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">buttonExample</string>
+    <string name="start_testing">計測開始</string>
+</resources>
